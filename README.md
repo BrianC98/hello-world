@@ -8,3 +8,4 @@ First GitKracken Edit
 Second GitKracken Edit
 
 Third Edit: Version A
+Third GitKracken Edit: Version B
